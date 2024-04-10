@@ -32,7 +32,7 @@ In this personal development project, my objective was to create a realistic cyb
 - Security Posture Review: Based on the insights gained, evaluated and enhanced the security measures, preparing for future assessments using Kali Linux and Atomic Red Team tools against the MITRE ATT&CK framework.
 
 
-## Visual Representation of the SOC Automation Lab Workflow
+## Visual Representation of the Active Directory Security Enhancement Workflow
 
 
 ![Draw](https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/assets/50869547/0308d907-9b89-4545-9a71-2c895eeba215)
